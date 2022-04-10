@@ -6,7 +6,7 @@ Um projetos que utilizando javascript desenvolvi para compra de pizzas, com adi√
 <img src="assets/toReadme/compra-de-pizza.gif">
 
 ### Mobile-First
-<img src="assets/toReadme/compra-de-pizza.gif">
+<img src="assets/toReadme/mobile-comprar-pizza.gif">
 
 # Tecnologias
  <ul>
