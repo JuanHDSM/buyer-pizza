@@ -1,6 +1,6 @@
 # Comprador de Pizza
 
-Um projetos que usando javascript para compra de pizzas, com adição ao carrino, cálculo do valor total
+Um projetos que utilizando javascript desenvolvi para compra de pizzas, com adição e remoção do carrinho, cálculo do valor subtotal e total, entre outras funcionalidades.
 
 <img src="assets/toReadme/compra-de-pizza.gif">
 
